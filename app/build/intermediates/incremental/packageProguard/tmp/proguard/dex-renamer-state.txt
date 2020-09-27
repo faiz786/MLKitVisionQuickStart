@@ -1,0 +1,4 @@
+#Mon Sep 28 00:25:46 GST 2020
+base.0=D\:\\Machine Learning\\AndroidMLProjects\\mlkit-master\\mlkit-master\\android\\vision-quickstart\\app\\build\\intermediates\\dex\\proguard\\minifyProguardWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
